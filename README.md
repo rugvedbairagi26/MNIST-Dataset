@@ -1,6 +1,7 @@
 # MNIST-Dataset
 🧠 MNIST Classifier from Scratch using NumPy
 This project implements a simple 2-layer Neural Network in pure NumPy to classify handwritten digits from the MNIST dataset — without using any machine learning libraries like TensorFlow or PyTorch.
+______________________________________________________________________________________________________________________________________________________________________________________________________
 
 📂 Files
 mnist_train.csv: MNIST training data in CSV format
@@ -11,12 +12,16 @@ mnist_nn.py: Main Python script implementing the model
 
 README.md: This file
 
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
 🧱 Architecture
 Input layer: 784 units (28×28 flattened image)
 
 Hidden layer: 128 ReLU neurons
 
 Output layer: 10 Softmax neurons (digits 0–9)
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ⚙️ Features
 Stable Softmax: Avoids overflow issues
@@ -31,3 +36,4 @@ ReLU Activation: Non-linearity in hidden layer
 
 Pure NumPy: No ML libraries used
 
+_________________________________________________________________________________________________________________________________________________________________________________________________________
