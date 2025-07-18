@@ -32,6 +32,20 @@ One-Hot Encoding: Converts digit labels to one-hot vectors
 
 Batch Gradient Descent: Learns from the full dataset per epoch
 
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+
+📬 Author Rugved Bairagi B.E. CSE (2nd Year) | PCCOER | Aspiring AI Researcher
+
+• 📧 rugvedbairagi26@email.com
+
+• Rugvedbairagi264248@gmail.com
+
+• 🔗 LinkedIn
+
+• 🐦 X / Twitter
+
+
+
 ReLU Activation: Non-linearity in hidden layer
 
 Pure NumPy: No ML libraries used
