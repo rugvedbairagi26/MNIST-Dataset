@@ -34,7 +34,7 @@ Batch Gradient Descent: Learns from the full dataset per epoch
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📬 Author Rugved Bairagi B.E. CSE (2nd Year) | PCCOER | Aspiring AI Researcher
+📬 Author Rugved Bairagi B.E. CSE | PCCOER | Aspiring AI Researcher
 
 • 📧 rugvedbairagi26@email.com
 
